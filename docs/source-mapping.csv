@@ -1,0 +1,13 @@
+slide,topic,wiki_page,source_ids
+3,定義,wiki/concepts/definition.md,S01;S03
+4,常見類型,wiki/concepts/definition.md,S01
+5,成因,wiki/concepts/causes.md,S01;S02
+6,猜測與不確定性,wiki/concepts/causes.md,S02
+7,幻覺案例,wiki/concepts/definition.md,S01;S03
+8,查核五步驟,wiki/concepts/fact-checking.md,S01;S03;S05
+9,Grounding與RAG,wiki/concepts/grounding.md,S04;S05
+10,有依據的回覆,wiki/concepts/mitigation.md,S03;S05
+11,風險管理,wiki/concepts/mitigation.md,S03;S05
+12,互動練習,wiki/concepts/fact-checking.md,S01;S05
+13,重點整理,wiki/concepts/mitigation.md,S01;S02;S04;S05
+14,資料來源,wiki/index.md,S01;S02;S03;S04;S05
